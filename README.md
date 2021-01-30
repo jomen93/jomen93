@@ -1,8 +1,9 @@
 ### Hola, Soy Johan Méndez 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Johanmndez?style=social)](https://twitter.com/JohanMndez)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Johanmndez?style=social)](https://twitter.com/JohanMndez  )
 
+<img src = "/Users/macbookpro/Documents/winds/two_equals_winds/orbits/Temperature_xrays.gif">
 
 Here are some ideas to get you started:
 
