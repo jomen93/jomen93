@@ -27,3 +27,40 @@
 
 <img align="left" alt="cpp" width="48px" src="https://krvajalm.gallerycdn.vsassets.io/extensions/krvajalm/linter-gfortran/2.2.2/1607686692613/Microsoft.VisualStudio.Services.Icons.Default" />
 
+<img align="left" alt="cpp" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png
+" />
+
+<img align="left" alt="cpp" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png
+" />
+
+<img align="left" alt="cpp" width="48px" src="
+https://miro.medium.com/max/700/1*pJm1NTQ-DCJvsLvo03idZQ.png
+" />
+
+<img align="left" alt="cpp" width="48px" src="
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png
+" />
+
+<img align="left" alt="cpp" width="48px" src="
+https://linube.com/blog/wp-content/uploads/bash-logo-768x878.png
+" />
+
+<img align="left" alt="cpp" width="48px" src="
+https://pandas.pydata.org/static/img/pandas_mark.svg
+" />
+
+<img align="left" alt="cpp" width="48px" src="
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/775px-NumPy_logo.svg.png
+" />
+
+
+<img align="left" alt="cpp" width="48px" src="
+https://computing.llnl.gov/tutorials/mpi/images/MPIlogo2.gif
+" />
+
+<img align="left" alt="cpp" width="48px" src="
+http://ferestrepoca.github.io/paradigmas-de-programacion/paralela/tutoriales/openmp/assets/img/logo.png
+" />
+
+ 
+
