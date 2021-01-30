@@ -27,6 +27,3 @@
 
 <img align="left" alt="cpp" width="48px" src="https://krvajalm.gallerycdn.vsassets.io/extensions/krvajalm/linter-gfortran/2.2.2/1607686692613/Microsoft.VisualStudio.Services.Icons.Default" />
 
-<img align="left" alt="keras" width="48px" src="https://keras.io/img/logo.png
-" />
-
