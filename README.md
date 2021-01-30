@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hola, Soy Johan Méndez 👋
 
 
-**jomen93/jomen93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/Johanmndez?style=social)](https://twitter.com/JohanMndez)
+
 
 Here are some ideas to get you started:
 
