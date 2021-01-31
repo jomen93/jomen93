@@ -3,6 +3,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Johanmndez?style=social)](https://twitter.com/JohanMndez  )
 
+<a href="https://www.linkedin.com/in/johan-mendez-3353861b2/">
+  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 ### 💻 Physicist and Data Scientist 
 #### ⚽ Soccer and Music lover
 
