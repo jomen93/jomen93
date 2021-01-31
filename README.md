@@ -1,12 +1,8 @@
 ### :octocat: Hi, I'm Johan Méndez 👋
 
-
-<div align="center">
-	<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-</div>
-
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/Johanmndez?style=social)](https://twitter.com/JohanMndez  )
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/johan-mendez-3353861b2/)
 
 <a href="https://www.linkedin.com/in/johan-mendez-3353861b2/">
   <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
