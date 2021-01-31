@@ -1,4 +1,9 @@
-### Hi, I'm Johan Méndez 👋
+### :octocat: Hi, I'm Johan Méndez 👋
+
+
+<div align="center">
+	<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+</div>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Johanmndez?style=social)](https://twitter.com/JohanMndez  )
