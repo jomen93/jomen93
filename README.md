@@ -24,13 +24,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomen93)](https://github.com/jomen93/)
 
-<br>
-### 🚀 Coding 
-<br>
+
+###  🚀Coding 
+
 
 [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F
 )]()
-
 [![C++](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B)]()
 
 - #### Machine Learning / Deep Learning frameworks : <br />
@@ -41,7 +40,6 @@
 
 - #### OS & IDE & Tools : <br />
 [![Sublime](https://img.shields.io/badge/-Sublime%20Text-eee?style=flat-square&logo=sublime-text&logoColor=007AE)]()
-
 [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
 [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)]()
 [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
