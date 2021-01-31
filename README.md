@@ -7,6 +7,8 @@
   <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br>
+
 ### 💻 Physicist and Data Scientist 
 #### ⚽ Soccer and Music lover
 
@@ -23,23 +25,13 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomen93)](https://github.com/jomen93/github-readme-stats)
+
+
 ### 🚀 Coding 
 
-<img align="left" alt="python" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="cpp" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-
-<img align="left" alt="cpp" width="48px" src="https://krvajalm.gallerycdn.vsassets.io/extensions/krvajalm/linter-gfortran/2.2.2/1607686692613/Microsoft.VisualStudio.Services.Icons.Default" />
-
-<br>
-
----
-
-### Languages
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3775A9) 
 ![](https://img.shields.io/badge/-R-informational?style=flat&logo=R&logoColor=white&color=00457C) 
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0a500)
- ![](https://img.shields.io/badge/-Scala-informational?style=flat&logo=scala&logoColor=white&color=ec524b) 
- ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=00457C) 
+![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=00457C) 
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=127681)
