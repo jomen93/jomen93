@@ -25,8 +25,9 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomen93)](https://github.com/jomen93/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomen93)](https://github.com/jomen93/)
 
+<br>
 
 ### 🚀 Coding 
 
@@ -35,3 +36,8 @@
 ![](https://img.shields.io/badge/-R-informational?style=flat&logo=R&logoColor=white&color=00457C) 
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=00457C) 
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=127681)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomen93&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
+
