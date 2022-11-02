@@ -11,12 +11,11 @@
 
 ---
 
-- 📉 I'm currently doing a master's degree at UNAM at the institute of nuclear sciences
+- 📉 I currently work as data scientist
 
 - 📚 I'm looking to collaborate in data science projects, meetups and all relate 
 
-- 💬 Ask me about computational physics , I'm passionate about this
-
+- 💬 Ask me about computational physics and data visualization. I'm passionate about this
 
 <br>
 
