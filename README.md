@@ -9,13 +9,15 @@
 ### 💻 Physicist and Data Scientist 
 #### ⚽ Soccer and Music lover
 
+I'm Johan Méndez - a passionate Physicist turned Data Scientist with a love for soccer and music. My journey from the mysteries of the universe to the intricacies of data patterns has been nothing short of exhilarating.
+
 ---
 
-- 📉 I currently work as data scientist
+🔭 Currently Crafting Data Magic: As a Data Scientist, I dive deep into data to uncover insights that make a difference. My work revolves around transforming complex datasets into actionable strategies.
 
-- 📚 I'm looking to collaborate in data science projects, meetups and all relate 
+🤝 Let's Collaborate: I'm on the lookout for opportunities to collaborate on data science projects and meetups. If you're passionate about computational physics, data visualization, or simply have an intriguing data challenge, I'm all ears.
 
-- 💬 Ask me about computational physics and data visualization. I'm passionate about this
+💡 Ask Me Anything: Got questions about computational physics or how to visually represent complex data? I'm here to share my knowledge and learn from others in the process.
 
 <br>
 
@@ -24,7 +26,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomen93)](https://github.com/jomen93/)
 
 
-###  🚀 Coding 
+###  🚀 Tech Stack and Tools:
 
 
 [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F
@@ -46,6 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomen93&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
 
+Let's Connect! Whether you're looking to collaborate, have a question, or just want to chat about the latest in tech, I'm here. Together, let's explore the possibilities that data offers.
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jomen93.jomen93" alt="Visitors">                
