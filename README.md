@@ -35,37 +35,25 @@ I build **production-grade AI systems**: LLM-powered data extraction pipelines, 
 
 ### Stack
 
-**Languages & Core**
+**Languages · ML · Cloud · Infra**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,docker,postgres,mongodb,git,linux&theme=light" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,aws,gcp,docker,postgres,mongodb,git,linux&theme=light" alt="Core Stack" />
 </p>
 
-**AI / LLM Ecosystem**
+**AI / LLM & Data**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Bedrock" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white" alt="Langfuse" />
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://cdn.simpleicons.org/anthropic" height="42" alt="Anthropic Claude" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" height="42" alt="LangChain" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph" height="42" alt="LangGraph" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pydantic" height="42" alt="Pydantic" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake" height="42" alt="Snowflake" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery" height="42" alt="BigQuery" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" height="42" alt="Hugging Face" />
 </p>
 
-**Cloud & Data**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker&logoColor=white" alt="SageMaker" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-</p>
-
-<sub>AWS: Bedrock · Lambda · S3 · EC2 · RDS · SageMaker · ECS  &nbsp;|&nbsp;  GCP: Vertex AI · BigQuery · Cloud Run · Cloud Functions · GCS</sub>
+<sub>También: OpenAI · AWS Bedrock · SageMaker · Vertex AI · Langfuse · Google ADK · LangSmith</sub>
 
 ---
 
