@@ -35,10 +35,10 @@ I build **production-grade AI systems**: LLM-powered data extraction pipelines, 
 
 ### Stack
 
-**AI / LLM** — Anthropic Claude · OpenAI · LangChain · LangGraph · Google ADK
-**Data** — Pydantic v2 · Scrapy · Selenium · httpx · BeautifulSoup · Pandas
+**AI / LLM** — Anthropic Claude · OpenAI · AWS Bedrock · LangChain · LangGraph · Google ADK · Langfuse
+**Data** — Snowflake · BigQuery · Pydantic v2 · Pandas · Scrapy · Selenium · httpx · BeautifulSoup
 **ML** — scikit-learn · PyTorch · TensorFlow
-**Cloud — AWS** — Lambda · S3 · EC2 · RDS · SageMaker · ECS
+**Cloud — AWS** — Bedrock · Lambda · S3 · EC2 · RDS · SageMaker · ECS
 **Cloud — GCP** — Vertex AI · BigQuery · Cloud Run · Cloud Functions · GCS
 **Infra** — FastAPI · PostgreSQL · MongoDB · Docker · Git · Linux
 
