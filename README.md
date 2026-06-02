@@ -46,10 +46,4 @@ I build **production-grade AI systems**: LLM-powered data extraction pipelines, 
 
 ---
 
-### Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomen93&layout=compact&theme=default&hide_border=true&title_color=0077B5&langs_count=8&cache_seconds=86400" width="42%" alt="Top Languages" />
-</p>
-
 <sub>📍 Bogotá, Colombia</sub>
