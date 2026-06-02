@@ -36,12 +36,14 @@ I build **production-grade AI systems**: LLM-powered data extraction pipelines, 
 ### Stack
 
 **AI / LLM** — Anthropic Claude · OpenAI · LangChain · LangGraph · Google ADK
-**Data** — Pydantic v2 · Scrapy · Selenium · httpx · BeautifulSoup
+**Data** — Pydantic v2 · Scrapy · Selenium · httpx · BeautifulSoup · Pandas
 **ML** — scikit-learn · PyTorch · TensorFlow
-**Infra** — FastAPI · PostgreSQL · MongoDB · Docker · AWS
+**Cloud — AWS** — Lambda · S3 · EC2 · RDS · SageMaker · ECS
+**Cloud — GCP** — Vertex AI · BigQuery · Cloud Run · Cloud Functions · GCS
+**Infra** — FastAPI · PostgreSQL · MongoDB · Docker · Git · Linux
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,aws,git,linux,pytorch&theme=light" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,aws,gcp,docker,postgres,mongodb,git,linux&theme=light" alt="Stack" />
 </p>
 
 ---
